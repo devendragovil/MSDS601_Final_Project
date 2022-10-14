@@ -1,0 +1,11 @@
+
+# Cache Files
+
+__pycache__
+.ipynb_checkpoints
+
+# Spurious Intermediate Notebooks
+
+
+# Downloaded zip files
+archive.zip
