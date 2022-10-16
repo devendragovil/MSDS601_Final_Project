@@ -5,7 +5,12 @@ __pycache__
 .ipynb_checkpoints
 
 # Spurious Intermediate Notebooks
-
+proj.ipynb
+initial_exploration.ipynb
 
 # Downloaded zip files
 archive.zip
+cal_housing.tgz
+
+# Other Data
+CaliforniaHousing/*
